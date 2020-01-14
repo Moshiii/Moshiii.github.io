@@ -6,39 +6,81 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download PDF version [Here](http://Moshiii.github.io/files/paper1.pdf)
+Download PDF version [Here](http://Moshiii.github.io/files/Moshi_Wei_ResumeV6_machine_learning.pdf)
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Experience
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Software Engineer – Business Intelligence, Achievers 
+:	May. 2019 – Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Created recommender system that recommend user who to @ in social network by applying Sentence Clustering and Collaborative Filtering based on the relevance between message and user
+
+* Reduced data warehouse restoration time by 24 times compared with the previous version by restructuring workflow using PostgreSQL
+
+* Increased global ETL loading speed by 16% by rewrite batch loading API using Python
+
+* Created interactive network visualizations for member in social network using Networkx and Pyvis
+
+* Developed the next generation ETL framework using Python, Redis, Docker and Airflow
+
+Project: Machine learning based Algorithmic trading research 
+: May. 2019 – Present
+
+* Run a RBC mutual fund portfolio with 9.5% annual return by analysing performance data using Python
+
+Master Research Assistant, University of Waterloo 
+: Dec. 2017 – Sep. 2019
+
+* Increased the accuracy of Automated Program Repair model on Quixbugs benchmark by 240% by proposing novel approach using Pytorch NMT model with CRNN layer and code mutation templates
+
+* Reduced the encoder and decoder dictionary size from 50000+ to 200 tokens and training time from 100+ hours to 20 hours by creating novel NMT architecture
+
+* Created road slippage detection model with 81% accuracy using VGG16 model and OpenCV
+
+Software Developer, AVG Technologies 
+: May. 2016 – Aug. 2016
+######
+Full-Stack Developer, Mitel 
+: Sep. 2015 – Dec. 2015
+######
+Full-Stack Developer, PDCI Market Access 
+: May. 2015 – Aug. 2015
+######
+Web Developer, Aboriginal Affairs and Northern Development Canada 
+: Apr. 2014 – Dec. 2014
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Awards
+* Received Full Tuition Scholarships for Uwaterloo MASc. Software Engineering program
+* Received A+ on Milestone project: AR based Poke-Mon Go using OpenCV and Unity3D
+* Selected as the 1st place out of 50 participants for the Twitter sentiment analysis competition in university of Ottawa for highest model accuracy
+* Achieved top 4% out of 100 participants for linear kernel MNIST digits recognition challenge with 98.8% model accuracy using fine-tuned K-means model
 
-Posts
-======
-  <ul>{% for post in site.posts %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+## Education
+
+University of Waterloo, Master of Computer Software Engineering
+: Dec 2017 – Sep 2019
+######
+University of Ottawa, Bachelor of Computer Science, Horner with Co-op 
+: Sep 2012 –  Dec 2017
+
+## Publications
+
+Abstraction Mechanism on Neural Machine Translation Models for Automated Program Repair
+: Author: Moshi Wei, Lin Tan  
+: Sep 23rd 2019
+######
+Ensemble Learning using Convolution Neural Machine Translation for Automatic Program Repair
+: Author:  Thibaud Lutellier, Lawrence Pang, Viet Hung Pham, Moshi Wei, Lin Tan 
+: Jun 20th 2018
+
+
+## Posts
+
+<ul>{% for post in site.posts %}
+
+{% include archive-single-cv.html %}
+
+{% endfor %}</ul>
