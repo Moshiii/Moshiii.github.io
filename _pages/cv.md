@@ -6,10 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Download PDF version [Here](http://Moshiii.github.io/files/paper1.pdf)
 
 {% include base_path %}
-
-[Download Resume Here](http://Moshiii.github.io/files/paper1.pdf)
 
 Education
 ======
