@@ -12,8 +12,7 @@ Download PDF version [Here](http://Moshiii.github.io/files/Moshi_Wei_ResumeV6_ma
 
 ## Experience
 
-Software Engineer – Business Intelligence, Achievers 
-:	May. 2019 – Present
+Software Engineer – Business Intelligence, Achievers &nbsp;&nbsp;&nbsp;&nbsp; May. 2019 – Present
 
 * Created recommender system that recommend user who to @ in social network by applying Sentence Clustering and Collaborative Filtering based on the relevance between message and user
 
@@ -25,13 +24,11 @@ Software Engineer – Business Intelligence, Achievers
 
 * Developed the next generation ETL framework using Python, Redis, Docker and Airflow
 
-Project: Machine learning based Algorithmic trading research 
-: May. 2019 – Present
+Project: Machine learning based Algorithmic trading research &nbsp;&nbsp;&nbsp;&nbsp; May. 2019 – Present
 
 * Run a RBC mutual fund portfolio with 9.5% annual return by analysing performance data using Python
 
-Master Research Assistant, University of Waterloo 
-: Dec. 2017 – Sep. 2019
+Master Research Assistant, University of Waterloo &nbsp;&nbsp;&nbsp;&nbsp; Dec. 2017 – Sep. 2019
 
 * Increased the accuracy of Automated Program Repair model on Quixbugs benchmark by 240% by proposing novel approach using Pytorch NMT model with CRNN layer and code mutation templates
 
@@ -39,17 +36,13 @@ Master Research Assistant, University of Waterloo
 
 * Created road slippage detection model with 81% accuracy using VGG16 model and OpenCV
 
-Software Developer, AVG Technologies 
-: May. 2016 – Aug. 2016
+Software Developer, AVG Technologies &nbsp;&nbsp;&nbsp;&nbsp; May. 2016 – Aug. 2016
 <br/><br/>
-Full-Stack Developer, Mitel 
-: Sep. 2015 – Dec. 2015
+Full-Stack Developer, Mitel &nbsp;&nbsp;&nbsp;&nbsp; Sep. 2015 – Dec. 2015
 <br/><br/>
-Full-Stack Developer, PDCI Market Access 
-: May. 2015 – Aug. 2015
+Full-Stack Developer, PDCI Market Access &nbsp;&nbsp;&nbsp;&nbsp; May. 2015 – Aug. 2015
 <br/><br/>
-Web Developer, Aboriginal Affairs and Northern Development Canada 
-: Apr. 2014 – Dec. 2014
+Web Developer, Aboriginal Affairs and Northern Development Canada &nbsp;&nbsp;&nbsp;&nbsp; Apr. 2014 – Dec. 2014
   
 ## Awards
 * Received Full Tuition Scholarships for Uwaterloo MASc. Software Engineering program
@@ -60,21 +53,19 @@ Web Developer, Aboriginal Affairs and Northern Development Canada
 
 ## Education
 
-University of Waterloo, Master of Computer Software Engineering
-: Dec 2017 – Sep 2019
+University of Waterloo, Master of Computer Software Engineering &nbsp;&nbsp;&nbsp;&nbsp; Dec 2017 – Sep 2019
 <br/><br/>
-University of Ottawa, Bachelor of Computer Science, Horner with Co-op 
-: Sep 2012 –  Dec 2017
+University of Ottawa, Bachelor of Computer Science, Horner with Co-op &nbsp;&nbsp;&nbsp;&nbsp; Sep 2012 –  Dec 2017
 
 ## Publications
 
 Abstraction Mechanism on Neural Machine Translation Models for Automated Program Repair
-: Author: Moshi Wei, Lin Tan  
-: Sep 23rd 2019
+Author: Moshi Wei, Lin Tan  
+Sep 23rd 2019
 <br/><br/>
 Ensemble Learning using Convolution Neural Machine Translation for Automatic Program Repair
-: Author:  Thibaud Lutellier, Lawrence Pang, Viet Hung Pham, Moshi Wei, Lin Tan 
-: Jun 20th 2018
+Author:  Thibaud Lutellier, Lawrence Pang, Viet Hung Pham, Moshi Wei, Lin Tan 
+Jun 20th 2018
 
 
 ## Posts
