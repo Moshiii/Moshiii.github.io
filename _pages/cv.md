@@ -73,7 +73,7 @@ Author: Moshi Wei, Lin Tan
 Sep 23rd 2019
 <br/><br/>
 ### Ensemble Learning using Convolution Neural Machine Translation for Automatic Program Repair
-Author:  Thibaud Lutellier, Lawrence Pang, Viet Hung Pham, Moshi Wei, Lin Tan 
+Author:  Thibaud Lutellier, Lawrence Pang, Viet Hung Pham, Moshi Wei, Lin Tan  
 Jun 20th 2018
 
 
