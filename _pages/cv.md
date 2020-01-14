@@ -25,12 +25,12 @@ May. 2019 – Present
 
 * Developed the next generation ETL framework using Python, Redis, Docker and Airflow
 
-Project: Machine learning based Algorithmic trading research
+### Project: Machine learning based Algorithmic trading research
 May. 2019 – Present
 
 * Run a RBC mutual fund portfolio with 9.5% annual return by analysing performance data using Python
 
-Master Research Assistant, University of Waterloo
+### Master Research Assistant, University of Waterloo
 Dec. 2017 – Sep. 2019
 
 * Increased the accuracy of Automated Program Repair model on Quixbugs benchmark by 240% by proposing novel approach using Pytorch NMT model with CRNN layer and code mutation templates
@@ -39,16 +39,16 @@ Dec. 2017 – Sep. 2019
 
 * Created road slippage detection model with 81% accuracy using VGG16 model and OpenCV
 
-Software Developer, AVG Technologies
+### Software Developer, AVG Technologies
 May. 2016 – Aug. 2016
 <br/><br/>
-Full-Stack Developer, Mitel
+### Full-Stack Developer, Mitel
 Sep. 2015 – Dec. 2015
 <br/><br/>
-Full-Stack Developer, PDCI Market Access
+### Full-Stack Developer, PDCI Market Access
 May. 2015 – Aug. 2015
 <br/><br/>
-Web Developer, Aboriginal Affairs and Northern Development Canada
+### Web Developer, Aboriginal Affairs and Northern Development Canada
 Apr. 2014 – Dec. 2014
   
 ## Awards
@@ -60,19 +60,19 @@ Apr. 2014 – Dec. 2014
 
 ## Education
 
-University of Waterloo, Master of Computer Software Engineering
+### University of Waterloo, Master of Computer Software Engineering
 Dec 2017 – Sep 2019
 <br/><br/>
-University of Ottawa, Bachelor of Computer Science, Horner with Co-op
+### University of Ottawa, Bachelor of Computer Science, Horner with Co-op
 Sep 2012 –  Dec 2017
 
 ## Publications
 
-Abstraction Mechanism on Neural Machine Translation Models for Automated Program Repair
+### Abstraction Mechanism on Neural Machine Translation Models for Automated Program Repair
 Author: Moshi Wei, Lin Tan  
 Sep 23rd 2019
 <br/><br/>
-Ensemble Learning using Convolution Neural Machine Translation for Automatic Program Repair
+### Ensemble Learning using Convolution Neural Machine Translation for Automatic Program Repair
 Author:  Thibaud Lutellier, Lawrence Pang, Viet Hung Pham, Moshi Wei, Lin Tan 
 Jun 20th 2018
 
