@@ -41,13 +41,13 @@ Master Research Assistant, University of Waterloo
 
 Software Developer, AVG Technologies 
 : May. 2016 – Aug. 2016
-######
+======
 Full-Stack Developer, Mitel 
 : Sep. 2015 – Dec. 2015
-######
+======
 Full-Stack Developer, PDCI Market Access 
 : May. 2015 – Aug. 2015
-######
+======
 Web Developer, Aboriginal Affairs and Northern Development Canada 
 : Apr. 2014 – Dec. 2014
   
@@ -62,7 +62,7 @@ Web Developer, Aboriginal Affairs and Northern Development Canada
 
 University of Waterloo, Master of Computer Software Engineering
 : Dec 2017 – Sep 2019
-######
+======
 University of Ottawa, Bachelor of Computer Science, Horner with Co-op 
 : Sep 2012 –  Dec 2017
 
@@ -71,7 +71,7 @@ University of Ottawa, Bachelor of Computer Science, Horner with Co-op
 Abstraction Mechanism on Neural Machine Translation Models for Automated Program Repair
 : Author: Moshi Wei, Lin Tan  
 : Sep 23rd 2019
-######
+======
 Ensemble Learning using Convolution Neural Machine Translation for Automatic Program Repair
 : Author:  Thibaud Lutellier, Lawrence Pang, Viet Hung Pham, Moshi Wei, Lin Tan 
 : Jun 20th 2018
