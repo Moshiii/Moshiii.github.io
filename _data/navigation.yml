@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Paper Reading List"
+    url: /ppr_list/
     
   - title: "Guide"
     url: /markdown/
