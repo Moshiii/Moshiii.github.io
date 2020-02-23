@@ -3,7 +3,7 @@ permalink: /ppr_list/
 title: "Paper Reading List"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /ppr_list/
   - /ppr_list.html
 --- 
  
