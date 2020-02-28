@@ -15,11 +15,11 @@ Even when the weaknesses, such as cryptographic misuses [42] and inappropriate S
 
 
 ## steps
-1. we first collect 693 banking apps across 83 countries from various markets, to our knowledge, this is the largest banking app dataset taken into study to date; 
+we first collect 693 banking apps across 83 countries. by applying Ausera, we collected 2,157 security weaknesses in the 693 banking apps.
 
-2. to collect the weaknesses exhibited in banking apps and complement the capability of existing tools in data-related weakness detection, we first summarize a weakness baseline and propose an automated security risk assessment system (Ausera). Ausera combines static program analysis techniques and sensitive keyword identification, to identify such weaknesses (cf. Section 2). 
-
-3. By applying Ausera, we collected 2,157 security weaknesses in the 693 banking apps, and further conduct a comprehensive empirical study (cf. Section 3) to investigate the ecosystem of banking apps in terms of security weaknesses, aiming to answer the following research questions:
+1. Sensitive data tagging.
+2. Function identification.
+3. Security weakness detection.
 
 ## RQ
 * RQ1: What is the current status of existing tools towards
