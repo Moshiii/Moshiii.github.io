@@ -37,3 +37,9 @@ and fragmentation?
 
 * RQ5: What is the gap between academic researchers and
 banks in understanding and fixing weaknesses?
+
+## Take away
+
+* Note that, to avoid missing variants of the keywords, we
+further employ Word2vec [57] to supplement the corpus of the
+keyword database.
