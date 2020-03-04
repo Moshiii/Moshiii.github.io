@@ -15,13 +15,15 @@ Download PDF version [Here](http://Moshiii.github.io/files/Moshi_Wei_ResumeV6_ma
 ### Software Engineer – Business Intelligence, Achievers
 May. 2019 – Present
 
-* Created recommender system that recommend user who to @ in social network by applying Sentence Clustering and Collaborative Filtering based on the relevance between message and user
+*	Team lead of awarded project: Created comments keywords insights system highlighting Date, Name and Event using Named Entity Recognition, Spacy, NLTK and relevant NLP technique
 
-* Reduced data warehouse restoration time by 24 times compared with the previous version by restructuring workflow using PostgreSQL
+* Created Machine learning based Recommender System that recommend nominees to the user in social network by Collaborative Filtering based on the relevance between message and user.
+
+* Reduced ETL data warehouse restoration time by 24 times compared with the previous version by restructuring workflow using PostgreSQL
 
 * Increased global ETL loading speed by 16% by rewrite batch loading API using Python
 
-* Created interactive network visualizations for member in social network using Networkx and Pyvis
+*	Created user connectivity Network Graph for member in social network for user influence Perdition and analysis using Python, Networkx and Pyvis
 
 * Developed the next generation ETL framework using Python, Redis, Docker and Airflow
 
@@ -52,11 +54,13 @@ May. 2015 – Aug. 2015
 Apr. 2014 – Dec. 2014
   
 ## Awards
+
+* Best Hackathon Project Award at Achievers 2019: ML-based Recommender system       
+* 2019 Innovation Award at Achievers
 * Received Full Tuition Scholarships for Uwaterloo MASc. Software Engineering program
 * Received A+ on Milestone project: AR based Poke-Mon Go using OpenCV and Unity3D
-* Selected as the 1st place out of 50 participants for the Twitter sentiment analysis competition in university of Ottawa for highest model accuracy
-* Achieved top 4% out of 100 participants for linear kernel MNIST digits recognition challenge with 98.8% model accuracy using fine-tuned K-means model
-
+* Winner of the Twitter NLP sentiment analysis contest at UOttawa for highest model accuracy out of 70 participants 
+* Top 4% out of 100 participants for MNIST digits recognition challenge with 98.8% model accuracy using fine-tuned K-means model	
 
 ## Education
 
