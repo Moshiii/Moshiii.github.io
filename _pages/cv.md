@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download PDF version [Here](http://Moshiii.github.io/files/Moshi_Wei_ResumeV6_machine_learning.pdf)
+Download PDF version [Here](http://Moshiii.github.io/files/Moshi Wei Machine learning NLP.pdf)
 
 {% include base_path %}
 
