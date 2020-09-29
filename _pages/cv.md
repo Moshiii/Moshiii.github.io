@@ -12,20 +12,22 @@ Download PDF version [Here](http://Moshiii.github.io/files/Moshi Wei Machine lea
 
 ## Experience
 
+### Deep learning Researcher - Softengineering, York University
+
+* Research Project: Automated testing pipline on the Robustness of Bert-like models.  
+
 ### Software Engineer – Business Intelligence, Achievers
-May. 2019 – Present
+May. 2019 – July. 2020
 
-*	Team lead of awarded project: Created comments keywords insights system highlighting Date, Name and Event using Named Entity Recognition, Spacy, NLTK and relevant NLP technique
+*	Team lead of awarded project: Created Named Entity Recognition system highlighting Date, Name and Event using Spacy, NLTK, Gensim and other NLP technique
 
-* Created Machine learning based Recommender System that recommend nominees to the user in social network by Collaborative Filtering based on the relevance between message and user.
+* Created a recommender System that recommend nominees to the user in social network by Collaborative Filtering based on the relevance between message and user.
 
-* Reduced ETL data warehouse restoration time by 24 times compared with the previous version by restructuring workflow using PostgreSQL
+* Reduced TeraByte-level ETL data warehouse restoration time by 24 times compared with the previous version by restructuring workflow using PostgreSQL
 
 * Increased global ETL loading speed by 16% by rewrite batch loading API using Python
 
-*	Created user connectivity Network Graph for member in social network for user influence Perdition and analysis using Python, Networkx and Pyvis
-
-* Developed the next generation ETL framework using Python, Redis, Docker and Airflow
+*	Created a visualization of employee community for user influence Perdition and analysis using Python, Networkx and Pyvis
 
 ### Project: Machine learning based Algorithmic trading research
 May. 2019 – Present
