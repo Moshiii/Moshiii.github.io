@@ -12,14 +12,16 @@ Download PDF version [Here](http://Moshiii.github.io/files/Moshi Wei Machine lea
 
 ## Experience
 
-### Deep learning Researcher - Softengineering, York University
-
-* Research Project: Automated testing pipline on the Robustness of Bert-like models.  
+### Deep learning Researcher - Software engineering, York University
+* Project in progress: Bert-API recommender
+* Paper inprocceding: Automatic Unit Test Generation for MachineLearning Libraries: How Far Are We?
+* Paper inprocceding: CoCoFuzzing: Testing Neural Code Models withCoverage-Guided Fuzzing.  
+* ISSTA2020 Paper: CoCoNuT: Combining Context-Aware Neural Translation Models using Ensemble for Program Repair.  
 
 ### Software Engineer – Business Intelligence, Achievers
 May. 2019 – July. 2020
 
-*	Team lead of awarded project: Created Named Entity Recognition system highlighting Date, Name and Event using Spacy, NLTK, Gensim and other NLP technique
+*	Team lead of awarded project: Created Named Entity Recognition (NER) system highlighting Date, Name and Event using Spacy, NLTK, Gensim and other NLP technique
 
 * Created a recommender System that recommend nominees to the user in social network by Collaborative Filtering based on the relevance between message and user.
 
