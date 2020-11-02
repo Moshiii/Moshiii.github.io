@@ -12,7 +12,7 @@ Download PDF version [Here](http://Moshiii.github.io/files/Moshi Wei Machine lea
 
 ## Experience
 
-### Deep learning Researcher - Software engineering, York University
+### NLP Researcher - Software engineering, York University
 * Project in progress: Bert-API recommender
 * Paper inprocceding: Automatic Unit Test Generation for MachineLearning Libraries: How Far Are We?
 * Paper inprocceding: CoCoFuzzing: Testing Neural Code Models withCoverage-Guided Fuzzing.  
