@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  Google Scholar profile <u><a href="https://scholar.google.com/citations?user=W9R50hoAAAAJ&hl=en"></a>.</u>
+  Google Scholar profile <u><a href="https://scholar.google.com/citations?user=W9R50hoAAAAJ&hl=en"></a>Link</u>
 
 * CoCoFuzzing: Testing Neural Code Models with Coverage-Guided Fuzzing\
   Moshi Wei, Yuchao Huang, Jinqiu Yang, Junjie Wang, and Song Wang\
