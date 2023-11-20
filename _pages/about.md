@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Bio
+
+Hello, I am Moshi, a Ph.D. student in Software Engineering from York University. I received my Master's degree from the University of Waterloo in April 2019 and my Bachelor's degree in Computer Science from the University of Ottawa in April 2016.  My research focuses on addressing the usability and reliability issues of deep-learning APIs, such as recommending and detecting misuse of deep-learning APIs. During my Ph.D. study, I have published several papers on deep-learning API recommendation and misuse detection in top-tier software engineering conferences (ICSE, ASE) and journals. Besides my research experience, I also have experience working in industry companies such as Huawei Canada and Ericsson. I am currently looking for professorial positions in Canada to continue my research on API usability and reliability.
+
 
 ## Education
 
