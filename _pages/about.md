@@ -18,20 +18,20 @@ Hello, I am Moshi, a Ph.D. student in Software Engineering from York University.
 
 ## Education
 
-* Ph.D., Software Engineering\
-  York University, Toronto, Ontario, Canada\
-  Thesis: Enhancing Usability and Reliability in Deep Learning APIs: Misuse Detection, Patching, and Recommendations\
-  Supervisor: Dr. Song Wang\
-  Sep. 2020 – May. 2024
+Ph.D., Software Engineering\
+York University, Toronto, Ontario, Canada\
+Thesis: Enhancing Usability and Reliability in Deep Learning APIs: Misuse Detection, Patching, and Recommendations\
+Supervisor: Dr. Song Wang\
+Sep. 2020 – May. 2024
 
-* M.Sc., Software Engineering\
-  University of Waterloo, Waterloo, Ontario, Canada\
-  Supervisor: Dr. Lin Tan\
-  Dec. 2017 – May. 2019
+M.Sc., Software Engineering\
+University of Waterloo, Waterloo, Ontario, Canada\
+Supervisor: Dr. Lin Tan\
+Dec. 2017 – May. 2019
   
-* B.Sc., Computer Science\
-  University of Ottawa, Ottawa, Ontario, Canada\
-  Sep. 2012 – May. 2016
+B.Sc., Computer Science\
+University of Ottawa, Ottawa, Ontario, Canada\
+Sep. 2012 – May. 2016
 
 ## Publication
 * P1 Moshi Wei, Nima Shiri Harzevili, Yuekai Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
@@ -90,52 +90,34 @@ Hello, I am Moshi, a Ph.D. student in Software Engineering from York University.
 
 ## Industrial Experience
 
-Research Intern - International Strategy Research\
+### Research Intern - International Strategy - Research Nov. 2023 – Now\
 Huawei Technologies Canada, Toronto, Ontario, CA\
-Nov. 2023 – Now\
 * Responsible for advanced Software AI Agent research.
   
-
-Research Intern - Advanced Wireless Capability\ 
+### Research Intern - Advanced Wireless Capability - Jan. 2023 – May. 2023\
 Huawei Technologies Canada, Ottawa, Ontario, CA\
-Jan. 2023 – May. 2023\
 * Developed deep learning model for 6G signal transmission prototype.\
 * Explored the impact of the Large Language Model on enterprise-level network configuration software.
-  
 
-Research Intern - R&D\
+### Research Intern - R&D - Nov. 2021 – Jan. 2022\
 Ericsson Software, Toronto, Ontario, CA\
-Nov. 2021 – Jan. 2022\
 * Developed a prototype for a low-code application development platform for network service providers.
 
-
-Machine Learning Engineer - Business Intelligence\ 
+### Machine Learning Engineer - Business Intelligence - May. 2019 – Jul. 2020\ 
 Achievers, Toronto, Ontario, CA\
-May. 2019 – Jul. 2020\
 * Designed and implemented a recommendation system for user-to-user recommendation.\
 * Maintained a data warehouse for a professional development network application with employee data from 300+ public companies.
 
+## Research Experience
+### Graduate Research Assistant at York University - Sep. 2020 – Now
+* Conducted research on the API recommendation model which became the State-of-the-art tool in 2022
+* Conducted research on applying the Large Language Model for deep learning API misuse detection and repair
+* Conducted research on software defect prediction and test case generation
+* Mentored students in the research lab
+* Published research findings in top software engineering conferences and journals
+* Peer-reviewed papers for software engineering conferences and journals
+### Research Assistant at University of Waterloo - Dec. 2017 – May. 2019
+* Conducted research on automated bug repair
+* Published research findings in top software engineering conferences and journals
+* Peer-reviewed papers for software engineering conferences and journals
 
-
-
-
-### Ph.D. Candidate, York University\
-Sep. 2020 – Now
-
-* Extracted and formatted data from Stackoverflow and the official Java documentation using BS4, followed  by tokenization and EDA analysis using Scikit-learn, StanfordNLP, and NLTK, and visualisation using Seaborn and Pyplot.
-
-* Created sourcecode pro-processing pipline with Python AST parser, APIs are extracted from a code snippet and tokenized with a custom tokenizer.
-
-* Trained MLP models such as Seq2seq LSTM, BERT, CodeBERT, Pegasus, Text-CNN with Huggingface, Pytorch or Tensorflow with multiple loss functions for performance optimization such as contrastive learning, prototypical network, siamese network, and compared baseline models such as SVM, NB, KNN, and XGBoost build with sklearn based on multiple metrics such as MRR, MAP, precision, recall, and F1
-
-### Ericsson – Software Engineer (Intern)\
-Sep. 2021 – Jan. 2022
-
-* Joined the research team as a research intern for prototyping a web-based low-code webpage editing platform with web components, AngularJS, and GrapeJS.
-
-### Software Engineer – BI, Achievers\
-May. 2019 – Sep. 2020
-
-* Initiated and developed an awarded collaborative filtering-based user recommendation system with Spacy, Scikit-learn, and pandas. Run the system on 200 users for testing and feedback
-* Developed and maintained daily ETL tasks with Centerprise ETL and PostgreSQL
-* Speedup TB-level ETL data warehouse restoration time by 24 times by restructuring workflow using PostgreSQL and python
