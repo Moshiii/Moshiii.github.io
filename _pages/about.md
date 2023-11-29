@@ -11,43 +11,82 @@ redirect_from:
 
 Hello, I am Moshi, a Ph.D. student in Software Engineering from York University. My research focuses on addressing the usability and reliability issues of deep-learning APIs, such as recommending and detecting misuse of deep-learning APIs. During my Ph.D. study, I have published several papers on deep-learning API recommendation and misuse detection in top-tier software engineering conferences (ICSE, ASE) and journals. Besides my research experience, I also have experience working in industry companies such as Huawei Canada and Ericsson. I am currently looking for professorial positions in Canada to continue my research on API usability and reliability.
 
+## Highlights
+
+* Publications in top venues: 3 ICSE, 1 FSE, 1 ISSTA
+* Research Interests: software engineering, machine learning, software reliability, software defect prediction, and software testing. Focusing on using deep learning, and language model techniques to improve system usability and reliability.
 
 ## Education
 
-* York University, Ph.D. of Software Engineering\
-  Sep. 2020 – Now
+* Ph.D., Software Engineering\
+  York University, Toronto, Ontario, Canada\
+  Thesis: Enhancing Usability and Reliability in Deep Learning APIs: Misuse Detection, Patching, and Recommendations\
+  Supervisor: Dr. Song Wang\
+  Sep. 2020 – May. 2024
 
-* University of Waterloo, Master of Software Engineering\
+* M.Sc., Software Engineering\
+  University of Waterloo, Waterloo, Ontario, Canada\
+  Supervisor: Dr. Lin Tan\
   Dec. 2017 – May. 2019
+  
+* B.Sc., Computer Science\
+  University of Ottawa, Ottawa, Ontario, Canada\
+  Sep. 2012 – May. 2016\
 
 ## Publication
+* P1 Moshi Wei, Nima Shiri Harzevili, Yuekai Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
+  Demystifying and Detecting Misuses of Deep Learning APIs.\
+  44th International Conference on Software Engineering (ICSE 2024) 13 pages, CORE A*.\
 
-* CoCoFuzzing: Testing Neural Code Models with Coverage-Guided Fuzzing\
-  Moshi Wei, Yuchao Huang, Jinqiu Yang, Junjie Wang, and Song Wang\
-  IEEE Transactions on Reliability (TR'22)\
+* P2 Jiho Shin, Moshi Wei, Junjie Wang, Lin Shi, and Song Wang.\
+  The Good, the Bad, and the Missing: Neural Code Generation for Machine Learning Tasks.\
+  ACM Transactions on Software Engineering and Methodology (TOSEM’23). 20 pages, CORE A*.
 
-* API Recommendation for Machine Learning Libraries: How Far Are We?\
-  Moshi Wei, Yuchao Huang, Junjie Wang, Jiho Shin, Shiri harzevili Nima, and Song Wang\
-  ESEC/FSE 2022\
+* P3 Omar Alhussein, Moshi Wei, Arashmid Akhavain.\
+  Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory. \
+  IEEE Global Communications Conference (Globecom’23).
 
-* CLEAR: Contrastive Learning for API Recommendation\
-  Moshi Wei, Shiri harzevili Nima, Yuchao Huang, Junjie Wang, and Song Wang\
-  ICSE 2022
+* P4 Moshi Wei, Yuchao Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
+  CoCoFuzzing: Testing Neural Code Models with Coverage-Guided Fuzzing.\
+  IEEE Transactions on Reliability (TR’22). 14 pages, CORE A.(Cited 10+ Times)
 
-* Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?\
-  Song Wang, Nishtha Shrestha, Abarna Kucheri Subburaman, Junjie Wang, Moshi Wei, and Nachiappan Nagappan\
-  ICSE 2021
+* P5 Moshi Wei, Yuchao Huang, Junjie Wang, Jiho Shin, Shiri harzevili Nima, and Song Wang.\
+  API Recommendation for Machine Learning Libraries: How Far Are We?.\
+  The 15th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). 12 pages, CORE A*.
+   
+* P6 Moshi Wei, Shiri harzevili Nima, Yuchao Huang, Junjie Wang, and Song Wang.\
+  CLEAR: Contrastive Learning for API Recommendation.\
+  44th International Conference on Software Engineering (ICSE2022) (ICSE 2022). 12 pages, CORE A*. (Cited 23+ Times)
+  
+* P7 Yuchao Huang, Moshi Wei, Song Wang, Junjie Wang, Qing Wang.\
+  Yet Another Combination of IR-and Neural-based Comment Generation.\
+  Information and Software Technology 2022 (IST 2022). 11 pages, CORE A.
+  
+* P8 Song Wang, Nishtha Shrestha, Abarna Kucheri Subburaman, Junjie Wang,Moshi Wei, and Nachiappan Nagappan.\
+  Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?.\
+  43rd International Conference on Software Engineering (ICSE 2021). 12 pages, CORE A*. (Cited 24+ Times)
+  
+* P9 Thibaud Lutellier, Hung Viet Pham, Lawrence Pang, Yitong Li, Moshi Wei, Lin Tan.\
+  Coconut: combining context-aware neural translation models using ensemble for program repair.\
+  Proceedings of the 29th ACM SIGSOFT international symposium on software testing and analysis (ISSTA 2020). 12 pages, CORE A*. (Cited 236+ Times)
 
-* Yet Another Combination of IR-and Neural-based Comment Generation\
-  Yuchao Huang, Moshi Wei, Song Wang, Junjie Wang, Qing Wang\
-  IST 2022
+## Papers under Review
 
-* Coconut: combining context-aware neural translation models using ensemble for program repair\
-  Lutellier Thibaud, Pham Hung Viet, Pang Lawrence, Li Yitong, Wei Moshi, Tan Lin\
-  ISSTA 2020
+* R1 Mohammad Mahdi Mohajer, Reem Aleithan, Nima Shiri Harzevili, Moshi Wei, Alvine Boaye Belle, Hung Viet Pham, Song Wang\
+  SkipAnalyzer: An Embodied Agent for Code Analysis with Large Language Models. 12 pages, CORE A. ICST 2024 submitted.
 
-* Survey on Automated API recommendation\
-  Wei, Moshi
+* R2 Jiho Shin, Hadi Hemmati, Moshi Wei, Song Wang\
+  Assessing Evaluation Metrics for Neural Test Oracle Generation. 13 pages, CORE A*. TSE submitted.
+
+* R3 Arunkaleeshwaran Narayanan, Junjie Wang, Lin Shi, Moshi Wei, Song Wang\
+  Automatic Unit Test Generation for Deep Learning Frameworks based on API Knowledge. 13 pages, CORE A*. ISSTA 2024 submitted.
+
+* R5 Nima Shiri harzevili, Moshi Wei, Hung Viet Pham, and Song Wang.\
+  Benchmarking Deep Learning Fuzzers. 45th IEEE Symposium on Security and Privacy, 18 pages. CORE A*. S&P 2024 submitted.
+
+* R6 Yuekai Huang, Junjie Wang, Song Wang, Moshi Wei, Zhe Liu, and Qing Wang.\
+  Automated Update of Deprecated APIs with Prior-constructed Knowledge and Self-debugging. 18 pages, CORE A*. (ESEC/FSE 2024), submitted.
+
 
 ## Experience
 
