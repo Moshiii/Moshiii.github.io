@@ -31,12 +31,12 @@ Hello, I am Moshi, a Ph.D. student in Software Engineering from York University.
   
 * B.Sc., Computer Science\
   University of Ottawa, Ottawa, Ontario, Canada\
-  Sep. 2012 – May. 2016\
+  Sep. 2012 – May. 2016
 
 ## Publication
 * P1 Moshi Wei, Nima Shiri Harzevili, Yuekai Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
   Demystifying and Detecting Misuses of Deep Learning APIs.\
-  44th International Conference on Software Engineering (ICSE 2024) 13 pages, CORE A*.\
+  44th International Conference on Software Engineering (ICSE 2024) 13 pages, CORE A*.
 
 * P2 Jiho Shin, Moshi Wei, Junjie Wang, Lin Shi, and Song Wang.\
   The Good, the Bad, and the Missing: Neural Code Generation for Machine Learning Tasks.\
@@ -88,7 +88,36 @@ Hello, I am Moshi, a Ph.D. student in Software Engineering from York University.
   Automated Update of Deprecated APIs with Prior-constructed Knowledge and Self-debugging. 18 pages, CORE A*. (ESEC/FSE 2024), submitted.
 
 
-## Experience
+## Industrial Experience
+
+Research Intern - International Strategy Research\
+Huawei Technologies Canada, Toronto, Ontario, CA\
+Nov. 2023 – Now\
+* Responsible for advanced Software AI Agent research.
+  
+
+Research Intern - Advanced Wireless Capability\ 
+Huawei Technologies Canada, Ottawa, Ontario, CA\
+Jan. 2023 – May. 2023\
+* Developed deep learning model for 6G signal transmission prototype.\
+* Explored the impact of the Large Language Model on enterprise-level network configuration software.
+  
+
+Research Intern - R&D\
+Ericsson Software, Toronto, Ontario, CA\
+Nov. 2021 – Jan. 2022\
+* Developed a prototype for a low-code application development platform for network service providers.
+
+
+Machine Learning Engineer - Business Intelligence\ 
+Achievers, Toronto, Ontario, CA\
+May. 2019 – Jul. 2020\
+* Designed and implemented a recommendation system for user-to-user recommendation.\
+* Maintained a data warehouse for a professional development network application with employee data from 300+ public companies.
+
+
+
+
 
 ### Ph.D. Candidate, York University\
 Sep. 2020 – Now
