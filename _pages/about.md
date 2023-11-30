@@ -70,23 +70,6 @@ Sep. 2012 – May. 2016
   Coconut: combining context-aware neural translation models using ensemble for program repair.\
   Proceedings of the 29th ACM SIGSOFT international symposium on software testing and analysis (ISSTA 2020). 12 pages, CORE A*. (Cited 236+ Times)
 
-## Papers under Review
-
-* R1 Mohammad Mahdi Mohajer, Reem Aleithan, Nima Shiri Harzevili, Moshi Wei, Alvine Boaye Belle, Hung Viet Pham, Song Wang\
-  SkipAnalyzer: An Embodied Agent for Code Analysis with Large Language Models. 12 pages, CORE A. ICST 2024 submitted.
-
-* R2 Jiho Shin, Hadi Hemmati, Moshi Wei, Song Wang\
-  Assessing Evaluation Metrics for Neural Test Oracle Generation. 13 pages, CORE A*. TSE submitted.
-
-* R3 Arunkaleeshwaran Narayanan, Junjie Wang, Lin Shi, Moshi Wei, Song Wang\
-  Automatic Unit Test Generation for Deep Learning Frameworks based on API Knowledge. 13 pages, CORE A*. ISSTA 2024 submitted.
-
-* R5 Nima Shiri harzevili, Moshi Wei, Hung Viet Pham, and Song Wang.\
-  Benchmarking Deep Learning Fuzzers. 45th IEEE Symposium on Security and Privacy, 18 pages. CORE A*. S&P 2024 submitted.
-
-* R6 Yuekai Huang, Junjie Wang, Song Wang, Moshi Wei, Zhe Liu, and Qing Wang.\
-  Automated Update of Deprecated APIs with Prior-constructed Knowledge and Self-debugging. 18 pages, CORE A*. (ESEC/FSE 2024), submitted.
-
 
 ## Industrial Experience
 
