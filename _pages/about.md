@@ -34,6 +34,7 @@ University of Ottawa, Ottawa, Ontario, Canada\
 Sep. 2012 – May. 2016
 
 ## Publication
+
 * P1 Moshi Wei, Nima Shiri Harzevili, Yuekai Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
   Demystifying and Detecting Misuses of Deep Learning APIs.\
   44th International Conference on Software Engineering (ICSE 2024) 13 pages, CORE A*.
@@ -42,31 +43,43 @@ Sep. 2012 – May. 2016
   The Good, the Bad, and the Missing: Neural Code Generation for Machine Learning Tasks.\
   ACM Transactions on Software Engineering and Methodology (TOSEM’23). 20 pages, CORE A*.
 
-* P3 Omar Alhussein, Moshi Wei, Arashmid Akhavain.\
+* P3 Mohammad Mahdi Mohajer, Reem Aleithan, Nima Shiri Harzevili, Moshi Wei, Alvine Boaye Belle, Hung Viet Pham, Song Wang.\
+  Effectiveness of ChatGPT for Static Analysis: How Far Are We?\
+  AIware 2024: Proceedings of the 1st ACM International Conference on AI-Powered Software.
+
+* P4 Jiho Shin, Hadi Hemmati, Moshi Wei, Song Wang.\
+  Assessing evaluation metrics for neural test oracle generation.\
+  IEEE Transactions on Software Engineering (TSE 2024)
+
+* P5 Deep API Sequence Generation via Golden Solution Samples and API Seeds
+  Huang Yuekai, Wang Junjie, Wang Song, Wei Moshi, Shi Lin, Liu Zhe, and Wang Qing.
+  ACM Transactions on Software Engineering and Methodology (TOSEM 2024)
+
+* P6 Omar Alhussein, Moshi Wei, Arashmid Akhavain.\
   Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory. \
   IEEE Global Communications Conference (Globecom’23).
 
-* P4 Moshi Wei, Yuchao Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
+* P7 Moshi Wei, Yuchao Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
   CoCoFuzzing: Testing Neural Code Models with Coverage-Guided Fuzzing.\
   IEEE Transactions on Reliability (TR’22). 14 pages, CORE A.(Cited 10+ Times)
 
-* P5 Moshi Wei, Yuchao Huang, Junjie Wang, Jiho Shin, Shiri harzevili Nima, and Song Wang.\
+* P8 Moshi Wei, Yuchao Huang, Junjie Wang, Jiho Shin, Shiri harzevili Nima, and Song Wang.\
   API Recommendation for Machine Learning Libraries: How Far Are We?.\
   The 15th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). 12 pages, CORE A*.
    
-* P6 Moshi Wei, Shiri harzevili Nima, Yuchao Huang, Junjie Wang, and Song Wang.\
+* P9 Moshi Wei, Shiri harzevili Nima, Yuchao Huang, Junjie Wang, and Song Wang.\
   CLEAR: Contrastive Learning for API Recommendation.\
   44th International Conference on Software Engineering (ICSE2022) (ICSE 2022). 12 pages, CORE A*. (Cited 23+ Times)
   
-* P7 Yuchao Huang, Moshi Wei, Song Wang, Junjie Wang, Qing Wang.\
+* P10 Yuchao Huang, Moshi Wei, Song Wang, Junjie Wang, Qing Wang.\
   Yet Another Combination of IR-and Neural-based Comment Generation.\
   Information and Software Technology 2022 (IST 2022). 11 pages, CORE A.
   
-* P8 Song Wang, Nishtha Shrestha, Abarna Kucheri Subburaman, Junjie Wang,Moshi Wei, and Nachiappan Nagappan.\
+* P11 Song Wang, Nishtha Shrestha, Abarna Kucheri Subburaman, Junjie Wang,Moshi Wei, and Nachiappan Nagappan.\
   Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?.\
   43rd International Conference on Software Engineering (ICSE 2021). 12 pages, CORE A*. (Cited 24+ Times)
   
-* P9 Thibaud Lutellier, Hung Viet Pham, Lawrence Pang, Yitong Li, Moshi Wei, Lin Tan.\
+* P12 Thibaud Lutellier, Hung Viet Pham, Lawrence Pang, Yitong Li, Moshi Wei, Lin Tan.\
   Coconut: combining context-aware neural translation models using ensemble for program repair.\
   Proceedings of the 29th ACM SIGSOFT international symposium on software testing and analysis (ISSTA 2020). 12 pages, CORE A*. (Cited 236+ Times)
 
