@@ -20,10 +20,10 @@ Hello, I am Moshi, a Ph.D. student in Software Engineering from York University.
 
 Ph.D., Software Engineering &nbsp;&nbsp;&nbsp;&nbsp; York University, Toronto, Ontario, Canada\
 Thesis: Enhancing Usability and Reliability in Deep Learning APIs: Misuse Detection, Patching, and Recommendations\
-Supervisor: Dr. Song Wang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep. 2020 – May. 2024
+Supervisor: Dr. Song Wang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep. 2020 – May. 2024
 
 M.Sc., Software Engineering &nbsp;&nbsp;&nbsp;&nbsp; University of Waterloo, Waterloo, Ontario, Canada\
-Supervisor: Dr. Lin Tan &nbsp;&nbsp;&nbsp;&nbsp; Dec. 2017 – May. 2019
+Supervisor: Dr. Lin Tan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dec. 2017 – May. 2019
   
 B.Sc., Computer Science &nbsp;&nbsp;&nbsp;&nbsp; University of Ottawa, Ottawa, Ontario, Canada\
 Sep. 2012 – May. 2016
