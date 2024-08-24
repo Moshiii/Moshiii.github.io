@@ -89,34 +89,21 @@ Sep. 2012 – May. 2016
 
 ## Industrial Experience
 
-### Research Intern - International Strategy - Research Nov. 2023 – Now\
-Huawei Technologies Canada, Toronto, Ontario, CA\
+### Research Intern - International Strategy - Research Nov. 2023 – Now
+Huawei Technologies Canada, Toronto, Ontario, CA
 * Responsible for advanced Software AI Agent research.
   
-### Research Intern - Advanced Wireless Capability - Jan. 2023 – May. 2023\
-Huawei Technologies Canada, Ottawa, Ontario, CA\
-* Developed deep learning model for 6G signal transmission prototype.\
+### Research Intern - Advanced Wireless Capability - Jan. 2023 – May. 2023
+Huawei Technologies Canada, Ottawa, Ontario, CA
+* Developed deep learning model for 6G signal transmission prototype.
 * Explored the impact of the Large Language Model on enterprise-level network configuration software.
 
-### Research Intern - R&D - Nov. 2021 – Jan. 2022\
-Ericsson Software, Toronto, Ontario, CA\
+### Research Intern - R&D - Nov. 2021 – Jan. 2022
+Ericsson Software, Toronto, Ontario, CA
 * Developed a prototype for a low-code application development platform for network service providers.
 
-### Machine Learning Engineer - Business Intelligence - May. 2019 – Jul. 2020\ 
-Achievers, Toronto, Ontario, CA\
-* Designed and implemented a recommendation system for user-to-user recommendation.\
+### Machine Learning Engineer - Business Intelligence - May. 2019 – Jul. 2020
+Achievers, Toronto, Ontario, CA
+* Designed and implemented a recommendation system for user-to-user recommendation.
 * Maintained a data warehouse for a professional development network application with employee data from 300+ public companies.
-
-## Research Experience
-### Graduate Research Assistant at York University - Sep. 2020 – Now
-* Conducted research on the API recommendation model which became the State-of-the-art tool in 2022
-* Conducted research on applying the Large Language Model for deep learning API misuse detection and repair
-* Conducted research on software defect prediction and test case generation
-* Mentored students in the research lab
-* Published research findings in top software engineering conferences and journals
-* Peer-reviewed papers for software engineering conferences and journals
-### Research Assistant at University of Waterloo - Dec. 2017 – May. 2019
-* Conducted research on automated bug repair
-* Published research findings in top software engineering conferences and journals
-* Peer-reviewed papers for software engineering conferences and journals
 
