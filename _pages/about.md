@@ -13,7 +13,7 @@ Hello, I am Moshi, a Ph.D. student in Software Engineering from York University.
 
 ## Highlights
 
-* Publications in top venues: 3 ICSE, 1 FSE, 1 ISSTA
+* Publications in top venues: 3 ICSE, 3 TOSEM, 1 FSE, 1 TSE, 1 ISSTA
 * Research Interests: software engineering, machine learning, software reliability, software defect prediction, and software testing. Focusing on using deep learning, and language model techniques to improve system usability and reliability.
 
 ## Education
@@ -33,41 +33,41 @@ Sep. 2012 – May. 2016
   Demystifying and Detecting Misuses of Deep Learning APIs.\
   44th International Conference on Software Engineering (ICSE 2024) 13 pages, CORE A*.
 
-* P2 Moshi Wei, Yuchao Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
-  CoCoFuzzing: Testing Neural Code Models with Coverage-Guided Fuzzing.\
-  IEEE Transactions on Reliability (TR’22). 14 pages, CORE A.(Cited 10+ Times)
-
-* P3 Moshi Wei, Yuchao Huang, Junjie Wang, Jiho Shin, Shiri harzevili Nima, and Song Wang.\
-  API Recommendation for Machine Learning Libraries: How Far Are We?.\
-  The 15th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). 12 pages, CORE A*.
-
-* P4 Moshi Wei, Shiri harzevili Nima, Yuchao Huang, Junjie Wang, and Song Wang.\
-  CLEAR: Contrastive Learning for API Recommendation.\
-  44th International Conference on Software Engineering (ICSE2022). 12 pages, CORE A*. (Cited 23+ Times)
-  
-* P5 Huang Yuekai, Wang Junjie, Wang Song, Wei Moshi, Shi Lin, Liu Zhe, and Wang Qing.\
+* P2 Huang Yuekai, Wang Junjie, Wang Song, Wei Moshi, Shi Lin, Liu Zhe, and Wang Qing.\
   Deep API Sequence Generation via Golden Solution Samples and API Seeds
   ACM Transactions on Software Engineering and Methodology (TOSEM 2024)
 
-* P6 Jiho Shin, Hadi Hemmati, Moshi Wei, and Song Wang.\
+* P3 Jiho Shin, Hadi Hemmati, Moshi Wei, and Song Wang.\
   Assessing Evaluation Metrics for Neural Test Oracle Generation\
   IEEE Transaction on Software Engineering (TSE 2024)
 
-* P7 Nima Shiri Harzevili, Mohammad Mahdi Mohajer, Moshi Wei, Hung Viet Pham, and Song Wang.\
+* P4 Nima Shiri Harzevili, Mohammad Mahdi Mohajer, Moshi Wei, Hung Viet Pham, and Song Wang.\
   History-Driven Fuzzing For Deep Learning Libraries\
   ACM Transactions on Software Engineering and Methodology (TOSEM 2024)
 
-* P8 Mohammad Mahdi Mohajer, Reem Aleithan, Nima Shiri Harzevili, Moshi Wei, Alvine Boaye Belle, Hung Viet Pham, Song Wang.\
+* P5 Mohammad Mahdi Mohajer, Reem Aleithan, Nima Shiri Harzevili, Moshi Wei, Alvine Boaye Belle, Hung Viet Pham, Song Wang.\
   Effectiveness of ChatGPT for Static Analysis: How Far Are We?\
   Proceedings of the 1st ACM International Conference on AI-Powered Software (AIware 2024)
 
-* P9 Jiho Shin, Moshi Wei, Junjie Wang, Lin Shi, and Song Wang.\
+* P6 Jiho Shin, Moshi Wei, Junjie Wang, Lin Shi, and Song Wang.\
   The Good, the Bad, and the Missing: Neural Code Generation for Machine Learning Tasks.\
   ACM Transactions on Software Engineering and Methodology (TOSEM’23). 20 pages, CORE A*.
 
-* P10 Omar Alhussein, Moshi Wei, Arashmid Akhavain.\
+* P7 Omar Alhussein, Moshi Wei, Arashmid Akhavain.\
   Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory. \
   IEEE Global Communications Conference (Globecom’23).
+
+* P8 Moshi Wei, Yuchao Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
+  CoCoFuzzing: Testing Neural Code Models with Coverage-Guided Fuzzing.\
+  IEEE Transactions on Reliability (TR’22). 14 pages, CORE A.(Cited 10+ Times)
+
+* P9 Moshi Wei, Yuchao Huang, Junjie Wang, Jiho Shin, Shiri harzevili Nima, and Song Wang.\
+  API Recommendation for Machine Learning Libraries: How Far Are We?.\
+  The 15th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). 12 pages, CORE A*.
+
+* P10 Moshi Wei, Shiri harzevili Nima, Yuchao Huang, Junjie Wang, and Song Wang.\
+  CLEAR: Contrastive Learning for API Recommendation.\
+  44th International Conference on Software Engineering (ICSE2022). 12 pages, CORE A*. (Cited 23+ Times)
 
 * P11 Yuchao Huang, Moshi Wei, Song Wang, Junjie Wang, Qing Wang.\
   Yet Another Combination of IR-and Neural-based Comment Generation.\
