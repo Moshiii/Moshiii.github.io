@@ -31,23 +31,23 @@ Sep. 2012 – May. 2016
 
 * P1 Moshi Wei, Nima Shiri Harzevili, Yuekai Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
   Demystifying and Detecting Misuses of Deep Learning APIs.\
-  44th International Conference on Software Engineering (ICSE 2024) 13 pages, CORE A*.
+  44th International Conference on Software Engineering (ICSE 2024). 13 pages, CORE A*.
 
 * P2 Huang Yuekai, Wang Junjie, Wang Song, Wei Moshi, Shi Lin, Liu Zhe, and Wang Qing.\
   Deep API Sequence Generation via Golden Solution Samples and API Seeds
-  ACM Transactions on Software Engineering and Methodology (TOSEM 2024)
+  ACM Transactions on Software Engineering and Methodology (TOSEM 2024). 20 pages, CORE A*.
 
 * P3 Jiho Shin, Hadi Hemmati, Moshi Wei, and Song Wang.\
   Assessing Evaluation Metrics for Neural Test Oracle Generation\
-  IEEE Transaction on Software Engineering (TSE 2024)
+  IEEE Transaction on Software Engineering (TSE 2024). 11 pages, CORE A*.
 
 * P4 Nima Shiri Harzevili, Mohammad Mahdi Mohajer, Moshi Wei, Hung Viet Pham, and Song Wang.\
   History-Driven Fuzzing For Deep Learning Libraries\
-  ACM Transactions on Software Engineering and Methodology (TOSEM 2024)
+  ACM Transactions on Software Engineering and Methodology (TOSEM 2024). 28 pages, CORE A*.
 
 * P5 Mohammad Mahdi Mohajer, Reem Aleithan, Nima Shiri Harzevili, Moshi Wei, Alvine Boaye Belle, Hung Viet Pham, Song Wang.\
   Effectiveness of ChatGPT for Static Analysis: How Far Are We?\
-  Proceedings of the 1st ACM International Conference on AI-Powered Software (AIware 2024)
+  Proceedings of the 1st ACM International Conference on AI-Powered Software (AIware 2024) 10 pages.
 
 * P6 Jiho Shin, Moshi Wei, Junjie Wang, Lin Shi, and Song Wang.\
   The Good, the Bad, and the Missing: Neural Code Generation for Machine Learning Tasks.\
@@ -55,7 +55,7 @@ Sep. 2012 – May. 2016
 
 * P7 Omar Alhussein, Moshi Wei, Arashmid Akhavain.\
   Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory. \
-  IEEE Global Communications Conference (Globecom’23).
+  IEEE Global Communications Conference (Globecom’23). 7 pages.
 
 * P8 Moshi Wei, Yuchao Huang, Jinqiu Yang, Junjie Wang, and Song Wang.\
   CoCoFuzzing: Testing Neural Code Models with Coverage-Guided Fuzzing.\
